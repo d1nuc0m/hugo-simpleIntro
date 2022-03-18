@@ -1,0 +1,4 @@
+[submodule "themes/simpleIntro"]
+	path = themes/simpleIntro
+	url = ./.
+	branch = main
